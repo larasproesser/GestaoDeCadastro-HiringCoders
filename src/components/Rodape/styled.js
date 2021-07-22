@@ -18,4 +18,6 @@ margin: 2rem 0.5rem;
 
 export const Assinatura = styled.section`
 font-size: 1rem;
+
 `;
+

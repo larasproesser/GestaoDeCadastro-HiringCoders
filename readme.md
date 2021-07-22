@@ -23,6 +23,6 @@ Criação de um sistema e-commerce para inventário de produtos e dados de clien
 
   -----------------------------------------------------------------------------------
 
-  **Para acessar o site [clique aqui!](https://purplefriday.netlify.app/)** :link: 
+  **Para acessar o site [clique aqui!](https://gestaodecadastro.netlify.app/)** :link: 
 
 No site é possível adicionar dados de produtos e de clientes que são armazenados no localstorage.

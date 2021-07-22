@@ -9,6 +9,7 @@ export const Select = styled.select`
   border-radius: 1rem;
   border: 1px solid #a06820;
   padding: 0.5rem 1rem;
+  
   &:focus {
     outline: none;
   }
@@ -22,6 +23,7 @@ export const TextArea = styled.textarea`
   border: 1px solid #a06820;
   padding: 0.5rem 1rem;
   resize:vertical;
+
   &:focus {
     outline: none;
   }
